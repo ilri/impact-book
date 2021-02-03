@@ -14,7 +14,7 @@ R code used to generate figures for:
 
 If you use this code please cite:
 
-*McIntire, J. and Grace, D. 2020. The impact of research at the International Livestock Research Institute. Source Code. Nairobi, Kenya: ILRI. https://hdl.handle.net/10568/111126.*
+*McIntire, J. and Grace, D. 2020. The code and data files used in the production of the book “The impact of research at the International Livestock Research Institute”. Nairobi, Kenya: ILRI. https://hdl.handle.net/10568/111126.*
 
 ## License
 
